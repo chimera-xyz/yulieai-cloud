@@ -1,0 +1,56 @@
+{
+  "ibm": {
+    "licenseConsent": true,
+    "isNotFirstTime": true
+  },
+  "general": {
+    "disableAutoUpdate": true,
+    "disableUpdateNag": true,
+    "checkpointing": {
+      "enabled": false
+    }
+  },
+  "ui": {
+    "theme": "Yulie Gold",
+    "customThemes": {
+      "Yulie Gold": {
+        "name": "Yulie Gold",
+        "type": "custom",
+        "Background": "#14110B",
+        "Foreground": "#F4E8D0",
+        "LightBlue": "#F6E3B1",
+        "AccentBlue": "#D6A84F",
+        "AccentPurple": "#A66A2A",
+        "AccentCyan": "#E7C66B",
+        "AccentGreen": "#8FBF73",
+        "AccentYellow": "#F2C14E",
+        "AccentRed": "#E05A47",
+        "Comment": "#7A6A52",
+        "Gray": "#A89675",
+        "DiffAdded": "#1F3A20",
+        "DiffRemoved": "#4A1712",
+        "DiffModified": "#3A2B12",
+        "GradientColors": [
+          "#F2C14E",
+          "#8A5A1E"
+        ],
+        "DarkGray": "#2B2418"
+      }
+    },
+    "hideBanner": false,
+    "hideFooter": false,
+    "hideWindowTitle": true,
+    "hideTips": false
+  },
+  "security": {
+    "auth": {
+      "selectedType": "api-key"
+    },
+    "ibmTelemetry": {
+      "enabled": false
+    }
+  },
+  "privacy": {
+    "usageStatisticsEnabled": false
+  }
+}
